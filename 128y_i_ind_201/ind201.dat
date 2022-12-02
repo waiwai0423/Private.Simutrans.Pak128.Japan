@@ -45,11 +45,11 @@ InputCapacity[0]=2400
 InputFactor[0]=100
 InputSupplier[0]=3
 OutputGood[0]=hakumai2
-OutputCapacity[0]=2000
-OutputFactor[0]=45
+OutputCapacity[0]=200
+OutputFactor[0]=5
 OutputGood[1]=hakumai3
-OutputCapacity[1]=200
-OutputFactor[1]=5
+OutputCapacity[1]=2000
+OutputFactor[1]=45
 Dims=1,1,1
 BackImage[0][0][0][0][0]=ind201.1.1
 --------------------

@@ -2,9 +2,11 @@
 # File created with TileCutter version 0.3d.1
 # For more information see http://simutrans.entropy.me.uk/tilecutter/
 #
+# change inputgood holtz to Bretter cause of stacking Bretter
+#
 Obj=factory
 name=Kohlegrube
-copyright=raven/yoshi
+copyright=raven/yoshi/waiwai0423
 intro_year=1850
 retire_year=9999
 level=10   
@@ -14,7 +16,7 @@ chance=100
 Productivity=100  
 Range=5    
 MapColor=36
-InputGood[0]=Holz
+InputGood[0]=Bretter
 InputCapacity[0]=50 
 InputFactor[0]=7 
 
