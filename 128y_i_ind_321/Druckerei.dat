@@ -18,10 +18,10 @@ InputCapacity[0]=800
 InputSupplier[0]=0
 InputFactor[0]=15
 
-InputGood[1]=Chemicals0
+InputGood[1]=Chemicals5
 InputCapacity[1]=50
 InputSupplier[1]=0
-InputFactor[1]=1
+InputFactor[1]=5
 
 OutputGood[0]=Bucher2
 OutputCapacity[0]=300

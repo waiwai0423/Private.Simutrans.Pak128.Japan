@@ -23,14 +23,18 @@ InputCapacity[0]=4500
 InputSupplier[0]=0
 InputFactor[0]=130
 
-InputGood[1]=Chemicals0
+InputGood[1]=Chemicals5
 InputCapacity[1]=400
 InputSupplier[1]=0
-InputFactor[1]=7
+InputFactor[1]=5
 
 OutputGood[0]=Papier3
 OutputCapacity[0]=500
-OutputFactor[0]=100
+OutputFactor[0]=52
+
+OutputGood[1]=Papier4
+OutputCapacity[1]=50
+OutputFactor[1]=8
 
 MapColor=18
 Dims=2,2

@@ -23,25 +23,27 @@ pax_level=30
 #InputCapacity[0]=5000
 #InputSupplier[0]=0
 
-InputGood[1]=Papier3
+InputGood[0]=Papier3
+InputFactor[0]=7
+InputCapacity[0]=5000
+InputSupplier[0]=0
+
+InputGood[1]=Plastik3
 InputFactor[1]=7
 InputCapacity[1]=5000
 InputSupplier[1]=0
 
-InputGood[2]=Plastik3
-InputFactor[2]=7
-InputCapacity[2]=5000
-InputSupplier[2]=0
-
-
-
 OutputGood[0]=household_goods2
-OutputCapacity[0]=400
-OutputFactor[0]=50
+OutputCapacity[0]=300
+OutputFactor[0]=20
 
 OutputGood[1]=household_goods3
-OutputCapacity[1]=400
-OutputFactor[1]=5
+OutputCapacity[1]=500
+OutputFactor[1]=4
+
+OutputGood[2]=household_goods4
+OutputCapacity[2]=200
+OutputFactor[2]=1
 
 MapColor=119
 Dims=3,3

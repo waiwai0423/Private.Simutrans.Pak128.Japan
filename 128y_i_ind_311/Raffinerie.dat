@@ -19,15 +19,19 @@ pax_level=30
 
 OutputGood[0]=GasolineA7
 OutputCapacity[0]=800
-OutputFactor[0]=80
+OutputFactor[0]=30
 
 OutputGood[1]=Plastik3
 OutputCapacity[1]=600
-OutputFactor[1]=100
+OutputFactor[1]=40
 
 OutputGood[2]=Chemicals0
 OutputCapacity[2]=300
 OutputFactor[2]=25
+
+OutputGood[3]=Chemicals5
+OutputCapacity[3]=51
+OutputFactor[3]=5
 
 Location=Land
 climates=water
