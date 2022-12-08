@@ -11,7 +11,7 @@ pax_level=20
 
 InputGood[0]=Bucher4
 InputCapacity[0]=800
-InputSupplier[0]=0
+InputSupplier[0]=1
 InputFactor[0]=50
 
 MapColor=101

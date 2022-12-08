@@ -39,11 +39,12 @@ OutputFactor[0]=20
 
 OutputGood[1]=household_goods3
 OutputCapacity[1]=500
-OutputFactor[1]=4
+OutputFactor[1]=10
+#OutputFactor[1]=4
 
-OutputGood[2]=household_goods4
-OutputCapacity[2]=200
-OutputFactor[2]=1
+#OutputGood[2]=household_goods4
+#OutputCapacity[2]=200
+#OutputFactor[2]=1
 
 MapColor=119
 Dims=3,3

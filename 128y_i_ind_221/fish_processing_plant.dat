@@ -15,8 +15,8 @@ pax_level=20
 #total input 560t
 InputGood[0]=fishB13
 InputCapacity[0]=300
-InputSupplier[0]=3
-InputFactor[0]=14
+InputSupplier[0]=1
+InputFactor[0]=100
 
 OutputGood[0]=processed_fish12
 OutputCapacity[0]=300

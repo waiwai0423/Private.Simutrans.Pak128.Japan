@@ -15,17 +15,17 @@ Copyright=Napik & Patrick & James Starr
 InputGood[0]=bento12
 InputCapacity[0]=20
 InputSupplier[0]=1
-InputFactor[0]=100
+InputFactor[0]=50
 
 InputGood[1]=household_goods2
 InputCapacity[1]=200
 InputSupplier[1]=1
-InputFactor[1]=300
+InputFactor[1]=20
 
 InputGood[2]=Bucher2
 InputCapacity[2]=200
 InputSupplier[2]=1
-InputFactor[2]=500
+InputFactor[2]=20
 
 MapColor=101
 Dims=1,1,4

@@ -22,25 +22,30 @@ InputCapacity[1]=100
 InputSupplier[1]=1
 InputFactor[1]=16
 
-InputGood[2]=bento12
+InputGood[2]=household_goods3
 InputCapacity[2]=100
 InputSupplier[2]=1
-InputFactor[2]=30
+InputFactor[2]=16
 
-InputGood[3]=sake3
+InputGood[3]=Bucher3
 InputCapacity[3]=100
 InputSupplier[3]=1
-InputFactor[3]=5
+InputFactor[3]=30
 
-InputGood[4]=household_goods4
+InputGood[4]=sake3
 InputCapacity[4]=100
 InputSupplier[4]=1
-InputFactor[4]=16
+InputFactor[4]=30
 
-InputGood[5]=Bucher3
+InputGood[5]=bento12
 InputCapacity[5]=100
 InputSupplier[5]=1
-InputFactor[5]=5
+InputFactor[5]=30
+
+InputGood[6]=fishB13
+InputCapacity[6]=100
+InputSupplier[6]=1
+InputFactor[6]=30
 
 MapColor=101
 Dims=4,4
