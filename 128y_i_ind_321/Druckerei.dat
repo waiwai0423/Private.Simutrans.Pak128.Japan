@@ -15,22 +15,25 @@ pax_level=40
 #total input 330
 InputGood[0]=Papier4
 InputCapacity[0]=800
-InputSupplier[0]=0
+InputSupplier[0]=1
 InputFactor[0]=15
 
 InputGood[1]=Chemicals5
 InputCapacity[1]=50
-InputSupplier[1]=0
+InputSupplier[1]=1
 InputFactor[1]=5
 
 OutputGood[0]=Bucher2
 OutputCapacity[0]=300
+OutputFactor[0]=20
 
 OutputGood[1]=Bucher3
 OutputCapacity[1]=300
+OutputFactor[1]=4
 
 OutputGood[2]=Bucher4
 OutputCapacity[2]=300
+OutputFactor[2]=1
 
 MapColor=19
 Dims=2,2

@@ -24,14 +24,14 @@ pax_level=30
 #InputSupplier[0]=0
 
 InputGood[0]=Papier3
-InputFactor[0]=7
+InputFactor[0]=50
 InputCapacity[0]=5000
-InputSupplier[0]=0
+InputSupplier[0]=1
 
 InputGood[1]=Plastik3
-InputFactor[1]=7
+InputFactor[1]=50
 InputCapacity[1]=5000
-InputSupplier[1]=0
+InputSupplier[1]=1
 
 OutputGood[0]=household_goods2
 OutputCapacity[0]=300
