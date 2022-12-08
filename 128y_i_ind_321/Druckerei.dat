@@ -13,7 +13,7 @@ Range=140
 pax_level=40
 
 #total input 330
-InputGood[0]=Papier3
+InputGood[0]=Papier4
 InputCapacity[0]=800
 InputSupplier[0]=0
 InputFactor[0]=15
@@ -25,6 +25,12 @@ InputFactor[1]=5
 
 OutputGood[0]=Bucher2
 OutputCapacity[0]=300
+
+OutputGood[1]=Bucher3
+OutputCapacity[1]=300
+
+OutputGood[2]=Bucher4
+OutputCapacity[2]=300
 
 MapColor=19
 Dims=2,2

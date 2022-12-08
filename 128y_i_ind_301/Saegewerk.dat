@@ -15,7 +15,7 @@ pax_level=30
 #total input 240
 InputGood[0]=Holz
 InputCapacity[0]=3000
-InputSupplier[0]=4
+InputSupplier[0]=2
 InputFactor[0]=150
 
 OutputGood[0]=Bretter

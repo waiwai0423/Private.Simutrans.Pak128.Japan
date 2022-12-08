@@ -9,10 +9,10 @@ Productivity=250
 Range=100
 pax_level=20
 
-InputGood[0]=Bucher2
+InputGood[0]=Bucher4
 InputCapacity[0]=800
 InputSupplier[0]=0
-InputFactor[0]=100
+InputFactor[0]=50
 
 MapColor=101
 Dims=2,2,1

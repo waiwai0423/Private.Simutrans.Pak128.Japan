@@ -20,21 +20,21 @@ pax_level=45
 #total input 240
 InputGood[0]=woodchip
 InputCapacity[0]=4500
-InputSupplier[0]=0
+InputSupplier[0]=1
 InputFactor[0]=130
 
 InputGood[1]=Chemicals5
 InputCapacity[1]=400
-InputSupplier[1]=0
+InputSupplier[1]=1
 InputFactor[1]=5
 
 OutputGood[0]=Papier3
 OutputCapacity[0]=500
-OutputFactor[0]=52
+OutputFactor[0]=6.5
 
 OutputGood[1]=Papier4
 OutputCapacity[1]=50
-OutputFactor[1]=8
+OutputFactor[1]=1
 
 MapColor=18
 Dims=2,2

@@ -14,12 +14,12 @@ Copyright=Napik & Patrick & James Starr/waiwai0423
 
 InputGood[0]=hakumai4
 InputCapacity[0]=100
-InputSupplier[0]=3
+InputSupplier[0]=1
 InputFactor[0]=16
 
 InputGood[1]=vegetableB4
 InputCapacity[1]=100
-InputSupplier[1]=3
+InputSupplier[1]=1
 InputFactor[1]=16
 
 InputGood[2]=bento12
@@ -37,6 +37,10 @@ InputCapacity[4]=100
 InputSupplier[4]=1
 InputFactor[4]=16
 
+InputGood[5]=Bucher3
+InputCapacity[5]=100
+InputSupplier[5]=1
+InputFactor[5]=5
 
 MapColor=101
 Dims=4,4
