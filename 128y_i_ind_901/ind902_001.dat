@@ -18,6 +18,7 @@ Range=5
 MapColor=36
 InputGood[0]=Bretter
 InputCapacity[0]=50 
+InputSupplier[0]=1
 InputFactor[0]=33
 
 OutputGood[0]=Kohle1

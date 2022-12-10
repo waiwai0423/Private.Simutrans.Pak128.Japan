@@ -44,7 +44,7 @@ MapColor=167
 InputGood[0]=vegetableA2
 InputCapacity[0]=1000  
 InputFactor[0]=100  
-InputSupplier[0]=5
+InputSupplier[0]=3
 
 OutputGood[0]=vegetableB2
 OutputCapacity[0]=300

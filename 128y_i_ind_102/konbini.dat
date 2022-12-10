@@ -10,7 +10,8 @@ DistributionWeight=2
 Productivity=2
 Range=1
 pax_level=100
-Copyright=Napik & Patrick & James Starr
+Copyright=Napik & Patrick & James Starr/waiwai0423
+intro_year=1974
 
 InputGood[0]=bento12
 InputCapacity[0]=20
