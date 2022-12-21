@@ -16,27 +16,27 @@ intro_year=1952
 InputGood[0]=hakumai4
 InputCapacity[0]=100
 InputSupplier[0]=1
-InputFactor[0]=16
+InputFactor[0]=2
 
 InputGood[1]=vegetableB4
 InputCapacity[1]=100
 InputSupplier[1]=1
-InputFactor[1]=16
+InputFactor[1]=2
 
 InputGood[2]=household_goods3
 InputCapacity[2]=100
 InputSupplier[2]=1
-InputFactor[2]=16
+InputFactor[2]=12
 
 InputGood[3]=Bucher3
 InputCapacity[3]=100
 InputSupplier[3]=1
-InputFactor[3]=30
+InputFactor[3]=12
 
 InputGood[4]=sake3
 InputCapacity[4]=100
 InputSupplier[4]=1
-InputFactor[4]=30
+InputFactor[4]=12
 
 InputGood[5]=bento12
 InputCapacity[5]=100
