@@ -25,8 +25,8 @@ FreightImage[N]=koki10000_2.6.4
 FreightImage[W]=koki10000_2.6.5
 FreightImage[NW]=koki10000_2.6.6
 FreightImage[NE]=koki10000_2.6.7
-intro_year=1960
-intro_month=1
+intro_year=1972
+intro_month=3
 retire_year=2004
 retire_month=10
 -------------------------------------------------------------------------------
