@@ -47,11 +47,11 @@ InputFactor[0]=100
 InputSupplier[0]=3
 
 OutputGood[0]=vegetableB2
-OutputCapacity[0]=300
+OutputCapacity[0]=50000
 OutputFactor[0]=20
 
 OutputGood[1]=vegetableB3
-OutputCapacity[1]=500
+OutputCapacity[1]=1000
 OutputFactor[1]=4
 
 OutputGood[2]=vegetableB4

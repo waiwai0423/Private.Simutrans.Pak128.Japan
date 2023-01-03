@@ -23,7 +23,7 @@ InputCapacity[0]=4500
 InputSupplier[0]=1
 InputFactor[0]=130
 
-InputGood[1]=Chemicals5
+InputGood[1]=Chemicals0
 InputCapacity[1]=400
 InputSupplier[1]=1
 InputFactor[1]=5

@@ -14,12 +14,12 @@ pax_level=40
 
 #total input 330
 InputGood[0]=Papier4
-InputCapacity[0]=800
+InputCapacity[0]=1000
 InputSupplier[0]=1
 InputFactor[0]=15
 
-InputGood[1]=Chemicals5
-InputCapacity[1]=50
+InputGood[1]=Chemicals0
+InputCapacity[1]=1000
 InputSupplier[1]=1
 InputFactor[1]=5
 
